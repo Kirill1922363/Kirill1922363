@@ -35,7 +35,7 @@
 
 | Project | Tech |
 |---------|------|
-| [**Project One**]((https://github.com/Kirill1922363/final_project_Django.git)) | Python, Django, PostgreSQL, Bootstrap |
+| [**Project One**](https://github.com/Kirill1922363/final_project_Django.git) | Python, Django, PostgreSQL, Bootstrap |
 | [**Project Two**](https://github.com/tr3pas/project_fastapi_goiteens.git) | Python, FastAPI |
 | [**Project Three**](https://github.com/Kirill1922363/mini_project.git) | Python, Pandas, Jupyter  |
 

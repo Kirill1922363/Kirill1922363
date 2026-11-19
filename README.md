@@ -33,21 +33,20 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Project One**](link) | What it does and what problem it solves | Python, FastAPI |
-| [**Project Two**](link) | What it does and what problem it solves | React, Node.js |
-| [**Project Three**](link) | What it does and what problem it solves | Telegram API |
+| Project | Tech |
+|---------|------|
+| [**Project One**]([link](https://github.com/Kirill1922363/final_project_Django.git)) | Python, Django, PostgreSQL, Bootstrap |
+| [**Project Two**](https://github.com/tr3pas/project_fastapi_goiteens.git) | Python, FastAPI |
+| [**Project Three**](https://github.com/Kirill1922363/mini_project.git) | Python, Pandas, Jupyter  |
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kirill1922363&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill1922363&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ## 📫 Get in Touch
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/https://t.me/kirill_14722)
+

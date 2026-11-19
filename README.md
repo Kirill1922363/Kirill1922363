@@ -48,5 +48,5 @@
 
 ## 📫 Get in Touch
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/https://t.me/kirill_14722)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/kirill_14722)
 
